@@ -1,1 +1,1 @@
-# strings.php
+Avançando em strings no PHP!
